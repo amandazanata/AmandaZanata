@@ -1,16 +1,30 @@
-### Hi there 👋
+# Welcome to my GitHub
+I have a degree in biomedicine, I worked in the area of medical genetics and I was always curious about how the programs I used in my daily life were made, what happened behind the screen and, as a user of these software, I wondered how I could contribute to improve my experience with that tool.
 
-<!--
-**amandazanata/AmandaZanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started researching the area of technology and my interest increased as I discovered the universe of possibilities that technology offers. From there I decided to make a career transition.
 
-Here are some ideas to get you started:
+:house: Santo André - São Paulo / Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bem vinda(o) ao meu GitHub
+Sou formada em biomedicina, atuei na área de genética médica e sempre tive curiosidade em como eram feitos os programas que eu utilizava no meu dia a dia, o que acontecia por trás da tela e, por ser usuária desses softwares, me perguntava como eu poderia contribuir para melhorar a minha experiência com aquela ferramenta.
+
+Comecei a pesquisar sobre a área de tecnologia e meu interesse aumentou conforme eu descobria o universo de possibilidades que a tecnologia oferece. A partir daí decidi fazer a transição de carreira.
+
+:house: Santo André - São Paulo / Brasil
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandazanata)
+[<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amandazanata46@gmail.com)
+
+#### Stacks:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+<img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+<img alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
