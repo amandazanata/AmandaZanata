@@ -1,13 +1,9 @@
 # Welcome to my GitHub
-I have a degree in biomedicine, I worked in the area of medical genetics and I started researching the area of technology, my interest increased as I discovered the universe of possibilities that technology offers and from there I decided to make a career transition.
+I have a bachelor degree in biomedicine and I worked with medical genetics. My interest in technology increased as I discovered the universe of possibilities that offers, then I decided to make a career transition and continue to impact people's lives, but now behind the computer screen.
 <img align="right" alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905" width="250" />
 
-:house: Santo André - São Paulo / Brazil
-
 # Bem vinda(o) ao meu GitHub
-Sou formada em biomedicina, atuei na área de genética médica e comecei a pesquisar sobre a área de tecnologia, meu interesse aumentou conforme eu descobria o universo de possibilidades que a tecnologia oferece e a partir daí decidi fazer a transição de carreira.
-
-:house: Santo André - São Paulo / Brasil
+Sou bacharel em biomedicina e atuei na área de genética médica. Meu interesse em tecnologia aumentou conforme eu descobria o universo de possibilidades que a área oferece, então decidi fazer a transição de carreira e continuar a impactar a vida das pessoas, só que agora atrás da tela do computador.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandazanata)
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amandazanata46@gmail.com)
