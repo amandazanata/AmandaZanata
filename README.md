@@ -1,5 +1,4 @@
-# Welcome to my GitHub
-I have a bachelor degree in biomedicine and I worked with medical genetics. My interest in technology increased as I discovered the universe of possibilities that offers, then I decided to make a career transition and continue to impact people's lives, but now behind the computer screen.
+
 <img align="right" alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905" width="250" />
 
 # Bem vinda(o) ao meu GitHub
