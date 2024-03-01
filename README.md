@@ -1,8 +1,7 @@
-# Bem vinda(o) ao meu GitHub
+# Bem vinda(o) ao meu GitHub / Welcome to my GitHub
 Sou uma biomédica em transição de carreira e estou documentando meus estudos por aqui.
 Estudei 1500 horas de desenvolvimento web na escola Trybe e disponibilizei meus projetos mais desafiadores, fique a vontade para ver meu portifólio.
 
-# Welcome to my GitHub
 I'm a biomedical scientist in career transition and I'm documenting my studies here.
 I studied 1500 hours of web development at the Trybe school and made my most challenging projects available, feel free to see my portfolio.
 
