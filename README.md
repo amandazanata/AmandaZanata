@@ -2,7 +2,12 @@
 <img align="right" alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905" width="250" />
 
 # Bem vinda(o) ao meu GitHub
-Sou bacharel em biomedicina e atuei na área de genética médica. Meu interesse em tecnologia aumentou conforme eu descobria o universo de possibilidades que a área oferece, então decidi fazer a transição de carreira e continuar a impactar a vida das pessoas, só que agora atrás da tela do computador.
+Sou uma biomédica em transição de carreira e estou documentando meus estudos por aqui.
+Estudei 1500 horas de desenvolvimento web na escola Trybe e disponibilizei meus projetos mais desafiadores, fique a vontade para ver meu portifólio.
+
+# Welcome to my GitHub
+I'm a biomedical scientist in career transition and I'm documenting my studies here.
+I studied 1500 hours of web development at the Trybe school and made my most challenging projects available, feel free to see my portfolio.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandazanata)
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amandazanata46@gmail.com)
