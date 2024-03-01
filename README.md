@@ -1,9 +1,8 @@
-
-<img align="right" alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905" width="250" />
-
 # Bem vinda(o) ao meu GitHub
 Sou uma biomédica em transição de carreira e estou documentando meus estudos por aqui.
 Estudei 1500 horas de desenvolvimento web na escola Trybe e disponibilizei meus projetos mais desafiadores, fique a vontade para ver meu portifólio.
+
+<img align="right" alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905" width="250" />
 
 # Welcome to my GitHub
 I'm a biomedical scientist in career transition and I'm documenting my studies here.
