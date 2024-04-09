@@ -6,6 +6,8 @@ Estudei 1500 horas de desenvolvimento web na escola Trybe e disponibilizei meus 
 Nasci no meio da graxa, com meu pai e avô mecânicos automotivos, me aventurei a aprender sobre a área nos meus tempos livres.
 Você pode até não acreditar, mas aqui vai uma lista das ajudas que já dei ao meu pai:
 
+<img alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905"  align="right"  width="250" />
+
 * Troquei correia dentada;
 * Encaixei o câmbio;
 * Regulei freio;
@@ -18,7 +20,6 @@ Você pode até não acreditar, mas aqui vai uma lista das ajudas que já dei ao
 
 Minha mãe é doceira, mas isso já é história para contar em outra oportunidade ;)
 
-<img alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905"  align="right"  width="250" />
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandazanata)
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amandazanata46@gmail.com)
