@@ -14,12 +14,11 @@ Você pode até não acreditar, mas aqui vai uma lista das ajudas que já dei ao
 * Encontrei defeito de peça;
 * Troquei pneu;
 * Achei a fonte do vazamento de óleo;
-* Sou a motorista pra ajudar encontrar origem de barulho;
-* Fiz guincho de carro (o que puxa e o que é puxado);
 * Ajudo meu pai em alguns socorros aos clientes;
 
 Minha mãe é doceira, mas isso já é história para contar em outra oportunidade ;)
 
+<br />
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandazanata)
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amandazanata46@gmail.com)
