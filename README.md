@@ -9,12 +9,12 @@ Você pode até não acreditar, mas aqui vai uma lista das ajudas que já dei ao
 <img alt="femalecodertocat" src="https://github.com/amandazanata/AmandaZanata/assets/96751880/b37c2fa0-9e2a-4ba0-b306-cd03000a0905"  align="right"  width="250" />
 
 * Troquei correia dentada;
-* Encaixei o câmbio;
+* Encaixei câmbio;
 * Regulei freio;
 * Encontrei defeito de peça;
 * Troquei pneu;
 * Achei a fonte do vazamento de óleo;
-* Sou a motorista pra ajudar encotrar origem de barulho;
+* Sou a motorista pra ajudar encontrar origem de barulho;
 * Fiz guincho de carro (o que puxa e o que é puxado);
 * Ajudo meu pai em alguns socorros aos clientes;
 
