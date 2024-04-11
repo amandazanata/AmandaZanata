@@ -14,7 +14,6 @@ Você pode até não acreditar, mas aqui vai uma lista das ajudas que já dei ao
 * Encontrei defeito de peça;
 * Troquei pneu;
 * Achei a fonte do vazamento de óleo;
-* Ajudo meu pai em alguns socorros aos clientes;
 
 Minha mãe é doceira, mas isso já é história para contar em outra oportunidade ;)
 
